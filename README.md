@@ -6,12 +6,12 @@
 
 ## 信息来源
 
-https://youcloud.com/reports/
-http://data.sogou.com/research/report
-http://www.seek68.cn/
-https://report.juxinli.com/#/
-http://www.51hangyebaogao.com
-http://tenlearning.cn/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A/
+https://youcloud.com/reports/  
+http://data.sogou.com/research/report  
+http://www.seek68.cn/  
+https://report.juxinli.com/#/  
+http://www.51hangyebaogao.com    
+http://tenlearning.cn/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A/  
 
 ## 已有数据
 百度网盘下载链接（报告更新可留意 “天天报告网”
